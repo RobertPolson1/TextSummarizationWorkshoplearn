@@ -1,0 +1,1 @@
+Mobile Text Summarizer: A mobile-friendly application that allows users to summarize texts on their smartphones, perfect for summarizing on the go!
